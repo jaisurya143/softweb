@@ -28,6 +28,8 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
+home.html
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -99,6 +101,8 @@ Publish the website in the given URL.
 </html>
 ```
 ```
+products.html
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -305,6 +309,8 @@ Publish the website in the given URL.
 </html>
 ```
 ```
+contact.html
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -505,6 +511,8 @@ Publish the website in the given URL.
 </html>
 ```
 ```
+people.html
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
